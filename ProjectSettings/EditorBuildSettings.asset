@@ -11,9 +11,27 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Events_UI.unity
     guid: c2c6432f96d704b868627c1a432e3832
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Constraints.unity
     guid: eb09626f3325c4d88bc6b4468752113a
+  - enabled: 0
+    path: Assets/VR_Scenes/Scene_0.unity
+    guid: 5520eacf736ad4c4481a94e7ce181d19
+  - enabled: 0
+    path: Assets/VR_Scenes/Scene_1.unity
+    guid: d944c4d177b4e46f0b3cd7a7815a12d5
+  - enabled: 0
+    path: Assets/VR_Scenes/Scene_2.unity
+    guid: 1e49e375d81a94080bd6b07adf616f6e
+  - enabled: 0
+    path: Assets/VR_Scenes/Scene_3.unity
+    guid: a8eaeb0f6dad04250835f28caa85c178
+  - enabled: 0
+    path: Assets/VR_Scenes/Scene_4.unity
+    guid: 5d0071304944649c1bd193162bb50bda
+  - enabled: 1
+    path: Assets/VR_Scenes/Scene_5.unity
+    guid: 82e6aaa86555a43c89924ad23ca39cb3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1efb89492bc64431ebb738ce1e9a6714, type: 2}
